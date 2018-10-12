@@ -22,8 +22,10 @@ http://localhost:8080/login
 ## Endpoints
 
 RestContactController
+```bash
 [GET] /contacts
 [GET] /contacts/{id}
 [POST] /contacts
 [PUT] /contacts/{id}
 [DELETE] /contacts/{id}
+```
